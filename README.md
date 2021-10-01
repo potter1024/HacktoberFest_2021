@@ -1,4 +1,4 @@
-# HactoberFest_2021
+# HacktoberFest_2021
 You can start with your first pull request here!
 
 ## Steps for contribution
