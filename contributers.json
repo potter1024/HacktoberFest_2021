@@ -43,4 +43,22 @@
 		"github_profile": "mrvishalsharma"
 	}
 },
+{
+	"Items":{
+		"name":"Vishal Kumar Saw",
+		"programming_language_proficiency": [
+			"C",
+			"C++",
+			"Javascript",
+			"Python",
+			"MySQL"
+		],
+		"hobbies": [
+			"badminton",
+			"competitive programming",
+			"software development"
+		],
+		"github_profile": "vishal-kumar-saw"
+	}
+}
 }
