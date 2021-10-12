@@ -29,18 +29,36 @@
 		"github_profile": "shrish789"
 	},
 	{
-	"Items": {
-		"name": "Vishal Sharma",
-		"programming_language_proficiency": [
-			"C",
-			"C++",
-			"Javascript"
-		],
-		"hobbies": [
-			"playing cricket",
-			"competitive programming"
-		],
-		"github_profile": "mrvishalsharma"
-	}
-},
+		"Items": {
+			"name": "Vishal Sharma",
+			"programming_language_proficiency": [
+				"C",
+				"C++",
+				"Javascript"
+			],
+			"hobbies": [
+				"playing cricket",
+				"competitive programming"
+			],
+			"github_profile": "mrvishalsharma"
+		}
+	},
+	{
+		"Items": {
+			"name": "Vishal Kumar Saw",
+			"programming_language_proficiency": [
+				"C",
+				"C++",
+				"Javascript",
+				"Python",
+				"MySQL"
+			],
+			"hobbies": [
+				"badminton",
+				"competitive programming",
+				"problem solving"
+			],
+			"github_profile": "vishal-kumar-saw"
+		}
+	},
 }
