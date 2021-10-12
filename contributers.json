@@ -29,7 +29,6 @@
 		"github_profile": "shrish789"
 	},
 	{
-	"Items": {
 		"name": "Vishal Sharma",
 		"programming_language_proficiency": [
 			"C",
@@ -41,10 +40,7 @@
 			"competitive programming"
 		],
 		"github_profile": "mrvishalsharma"
-	}
-},
-{
-	"Items":{
+	},
 		"name":"Vishal Kumar Saw",
 		"programming_language_proficiency": [
 			"C",
@@ -60,5 +56,4 @@
 		],
 		"github_profile": "vishal-kumar-saw"
 	}
-}
 }
