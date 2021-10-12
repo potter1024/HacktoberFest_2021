@@ -57,6 +57,23 @@
 				"software development"
 			],
 			"github_profile": "vishal-kumar-saw"
+		},
+		{
+			"name": "RPWPA",
+			"programming_language_proficiency": [
+				"C#",
+				"C++",
+				"Javascript",
+				"Python",
+				"SQL",
+				"C"
+			],
+			"hobbies": [
+				"watching anime",
+				"reading manga",
+				"learning new topics"
+			],
+			"github_profile": "RPWPA"
 		}
 	]
 }
