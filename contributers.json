@@ -106,6 +106,21 @@
 				"learning new topics"
 			],
 			"github_profile": "RPWPA"
+		},
+		{
+			"name": "Mulia Hartawan Negara",
+			"programming_language_proficiency": [
+				"C#",
+				"Javascript",
+				"PHP",
+				"SQL",
+				"Node Js"
+			],
+			"hobbies": [
+				"watching film",
+				"reading manga",
+			],
+			"github_profile": "MuliaHartawan"
 		}
 	]
 }
