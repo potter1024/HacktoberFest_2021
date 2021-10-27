@@ -135,9 +135,24 @@
 			],
 			"hobbies": [
 				"watching film",
-				"reading manga",
+				"reading manga"
 			],
 			"github_profile": "MuliaHartawan"
+		},
+		{
+			"name": "Funwaa",
+			"programming_language_proficiency": [
+				"PHP",
+				"Javascript",
+				"Bash",
+				"Ruby",
+				"Python"
+			],
+			"hobbies": [
+				"Bingewatching TV shows",
+				"Playing dumb mobile games"
+			],
+			"github_profile": "funwaa"
 		}
 	]
 }
